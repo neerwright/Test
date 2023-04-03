@@ -1,0 +1,1 @@
+from PythonExercises.importTest.folderB import *

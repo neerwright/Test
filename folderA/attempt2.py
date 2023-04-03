@@ -1,0 +1,1 @@
+from importTest.folderB.myFunction import *

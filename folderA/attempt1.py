@@ -1,0 +1,1 @@
+from ..folderB.myFunction import *
